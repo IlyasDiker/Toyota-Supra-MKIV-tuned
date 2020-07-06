@@ -1,0 +1,42 @@
+{
+  "carPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF3F3F3F",
+    "flakes": 0.666,
+    "enabled": true
+  },
+  "leather2": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather3": {
+    "enabled": true,
+    "colors": [
+      "#281E1E"
+    ]
+  },
+  "leather4": {
+    "enabled": true,
+    "colors": [
+      "#6D1515"
+    ]
+  },
+  "leatherColored": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Japan",
+    "paramHiragana": "ほ",
+    "paramPrefecture": "石川",
+    "paramVehicle": "330",
+    "paramNumber": "ZWIN"
+  }
+}
