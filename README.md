@@ -11,4 +11,8 @@ This a Toyota Supra MKIV 1993 Tunned by me @IlyasDiker.
 
 <img src="https://i.imgur.com/FTmHmAl.png">
 
+## Preview
+
+<img src="https://i.imgur.com/zIXH2q0.png">
+
 > Made with ❤ For Fun
